@@ -1,1 +1,24 @@
 @import "_component";
+body {
+    .container {
+        .navbar{
+            .container-fluid{
+                .collapse{
+                    .but{
+                        h1{
+                            font-weight: bold;
+                            // margin: 0 0 0 3rem;
+                        }
+                    }
+                    .list{
+                        .navbar-nav{
+                            .nav-item{
+                                margin: 0 0.7rem 0 .7rem;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
