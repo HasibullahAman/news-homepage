@@ -1,3 +1,9 @@
+@media (max-width: 767px) {
+  .navbar {
+    align-items: flex-end;
+    width: 70%;
+  }
+}
 body .container .navbar .container-fluid .collapse .but h1 {
   font-weight: bold;
 }
